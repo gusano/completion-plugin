@@ -1,6 +1,6 @@
 # completion-plugin
 
-This plugin enables auto-completion for Pd objects.
+This Gui-Plugin enables auto-completion for [pure-data](http://puredata.info) objects.
 Just hit the TAB key while typing into an object to trigger completion mode.
 
 ## Screenshot
@@ -18,16 +18,12 @@ You can see a video demo of the plugin [on vimeo](https://vimeo.com/23557543).
 By default, only Pd internals are available, but you can add your own
 objects|abstractions names:
 
- - add them into any `*.txt` file inside
- `user_objects` subfolder
- - these files should contain one object|abstraction name per line (no commas at the end of the
-line)
+ - add them into any `*.txt` file inside `user_objects` subfolder
+ - these files should contain one object|abstraction name per line (no commas at the end of the line)
 
-Some other options can be tweaked in the `completion.cfg` config file, it should
-be pretty straightforward.
+Some other options can be tweaked in the `completion.cfg` config file, it should be pretty straightforward.
 
-Some libraries will automatically get their externals added if they were loaded
-with -lib (like Gem, gridflow, ...).
+Some libraries will automatically get their externals added if they were loaded with -lib (like Gem, gridflow, ...).
 Their objects list can be found in the subfolder `lib_objects`.
 
 Send bug reports to `contact@yvanvolochine.com`.
