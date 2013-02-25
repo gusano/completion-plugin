@@ -1,6 +1,6 @@
 # completion-plugin
 
-This Gui-Plugin enables auto-completion for [pure-data](http://puredata.info) objects.
+This Gui-Plugin enables auto-completion for [pd-extended](http://puredata.info/downloads/pd-extended) objects.
 Just hit the TAB key while typing into an object to trigger completion mode.
 
 ## Screenshot
