@@ -1,5 +1,7 @@
 # completion-plugin
 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 This Gui-Plugin enables auto-completion for [pure-data](http://puredata.info) objects.
 Just hit the TAB key while typing into an object to trigger completion mode.
 
