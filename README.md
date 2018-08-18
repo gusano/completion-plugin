@@ -35,6 +35,10 @@ Send bug reports to `contact@yvanvolochine.com`.
 
 ## Version history:
 
+### 0.43:
+
+ - change license to "BSD License 2.0"
+
 ### 0.42:
 
  - add `user_objects` file support
